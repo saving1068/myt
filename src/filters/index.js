@@ -1,0 +1,8 @@
+
+function test(){
+
+}
+
+export {
+    test
+}
